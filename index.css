@@ -1,0 +1,30 @@
+body {
+  background-color: #74d9ae;
+}
+
+p {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+#fruit {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-size: 300px;
+  margin-bottom: 100px;
+}
+
+#button {
+  width: 20em;
+  height: 4em;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: arial;
+  border: none;
+  background-color: #2f6146;
+  color: #ffffff;
+}
